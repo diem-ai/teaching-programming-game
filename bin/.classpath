@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="game/ai/shared/model/rules/RuleCollection.java|game/ai/shared/player/factory/PairsPlayerFactory.java|game/ai/shared/model/rules/ConditionCollection.java|game/ai/shared/model/rules/TestConditionCollection.java|game/ai/shared/rules/ConditionCollection.java|game/ai/shared/rules/RuleCollection.java|game/ai/shared/rules/TestConditionCollection.java" kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/mockito-core-1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
